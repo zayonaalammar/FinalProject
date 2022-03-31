@@ -9,19 +9,6 @@ body {
   margin: 0;
   padding: 0%;
 }
-.box {
-  width: 200px;
-  padding: 30px;
-
-  background-color: #9a949b;
-}
-.box input[type="text"],
-.box input[type="password"] {
-  border: 0;
-  display: block;
-  margin: 20px auto;
-  text-align: center;
-}
 
 .navbar {
   display: flex;

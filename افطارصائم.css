@@ -1,0 +1,30 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: rgb(252, 215, 221);
+}
+
+.iftar img {
+  width: 500px;
+  height: 400px;
+  float: left;
+  padding: 0 10px;
+}
+.iftar p {
+  font-size: 50px;
+  text-align: right;
+  color: rgb(241, 234, 234);
+}
+.iftar ul {
+  font-size: 30px;
+  text-align: right;
+  color: pink;
+}
+.iftar button {
+  display: flexbox;
+}
+h5 {
+  color: rgb(241, 234, 234);
+
+  font-size: 40px;
+}
